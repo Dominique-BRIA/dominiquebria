@@ -24,7 +24,7 @@ export function Contact() {
     <section className="contact section-shell" id="contact">
       <SectionHeader
         title="Contact me"
-        subtitle="Cultivating Connections: Reach Out And Connect With Me"
+        subtitle="Cultiver mon réseau : contactez-moi et échangeons"
       />
 
       <form className="contact-form" onSubmit={handleSubmit}>
